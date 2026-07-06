@@ -57,7 +57,7 @@ cv:
         start_date: 2025
         end_date: present
 
-    Volunteer:
+    Volunteering:
       - company: Jožef Stefan Institute
         position: Organizer
         start_date: 2025-10-01
@@ -79,8 +79,8 @@ cv:
     Skills:
         type: list
         contents:
-          - <b>Programming:</b> Python (main), Java (competent), C (basic), C++ (basic), Matlab (basic), JavaScript (basic), SQL (basic), ...
-          - <b>Writing:</b> LATEX, Microsoft Word, HTML
-          - <b>Libraries:</b> PyTorch, Pandas, Matplotlib, SciPy, ...
-          - <b>Presentations:</b> LATEX beamer, Microsoft PowerPoint
-          - <b>Languages:</b> Macedonian, English, Croatian, Slovenian, French
+          - Programming: Python (main), Java (competent), C (basic), C++ (basic), Matlab (basic), JavaScript (basic), SQL (basic), ...
+          - Writing: LATEX, Microsoft Word, HTML
+          - Libraries: PyTorch, Pandas, Matplotlib, SciPy, ...
+          - Presentations: LATEX beamer, Microsoft PowerPoint
+          - Languages: Macedonian, English, Croatian, Slovenian, French
