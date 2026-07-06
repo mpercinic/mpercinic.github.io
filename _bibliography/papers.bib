@@ -17,5 +17,9 @@ publisher="Springer Nature Switzerland",
 address="Cham",
 pages="143--157",
 abstract="We introduce nHVAE, a variational autoencoder designed to encode and decode n-ary trees. It extends the hierarchical variational autoencoder, HVAE, initially developed for binary trees. The elementary components of nHVAE are recurrent neural network cells arranged in a hierarchy that follows the structure of the training n-ary trees. The encoder operates bottom-up, and each encoder cell computes the state of the observed tree node from the states of (an arbitrary number of) its children. The decoder operates top-down and left-to-right: each decoder cell computes the new state of the current cell from the states of its parent and its left sibling and decides when to stop the generation of siblings. We empirically evaluate the performance of nHVAE on generating n-ary trees of mathematical expressions. The results show that nHVAE retains the HVAE performance in terms of reconstruction error, as well as its ability to learn from a modest number of training examples and operate in low-dimensional, smooth latent spaces. The ability of nHVAE to generate trees of arbitrary degree enables its application to various downstream tasks on trees, beyond symbolic regression, where HVAE has been used.",
-isbn="978-3-032-05461-6"
+isbn="978-3-032-05461-6",
+abbr="DS 2025",
+bibtex_show=true,
+code="https://github.com/mpercinic/nHVAE",
+doi="10.1007/978-3-032-05461-6_10"
 }
