@@ -5,7 +5,6 @@ title: Publications
 description: Publications ordered from newest to oldest.
 nav: true
 nav_order: 2
-selected: true
 ---
 
 <!-- _pages/publications.md -->
