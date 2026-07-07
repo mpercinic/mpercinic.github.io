@@ -4,7 +4,6 @@
     "label": "Young Researcher",
     "image": "",
     "email": "martin.percinic@ijs.si",
-    "phone": "",
     "summary": "A PhD student at the Jožef Stefan International Postgraduate School, working in the field of machine learning.",
     "location": {
       "address": "Jamova cesta 39",
@@ -38,6 +37,7 @@
   "volunteer": [
     {
       "organization": "Jožef Stefan Institute",
+      "location": "Ljubljana, Slovenia",
       "position": "Organizer",
       "startDate": "2025-10-01",
       "endDate": "present",
@@ -45,6 +45,7 @@
     },
     {
       "organization": "IPS Students' Conference 2026",
+      "location": "Miren Castle, Slovenia",
       "position": "Organizer",
       "startDate": "2025-11-06",
       "endDate": "2026-05-29",
@@ -52,6 +53,7 @@
     },
     {
       "organization": "AI for Science 2025",
+      "location": "Ljubljana, Slovenia",
       "position": "Volunteer",
       "startDate": "2025-09-22",
       "endDate": "2025-09-26",
