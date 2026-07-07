@@ -2,45 +2,29 @@ cv:
   name: Martin Perčinić
   label: Young Researcher
   email: martin.percinic@ijs.si
-  location: Ljubljana, Slovenia
-  image: ""
+  location: Jamova cesta 39, 1000 Ljubljana, Slovenia
   summary: A PhD student at the Jožef Stefan International Postgraduate School, working in the field of machine learning.
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: Jamova cesta 39
-    city: Ljubljana
-    region: Slovenia
-    postalCode: 1000
-    countryCode: SI
 
   sections:
     Education:
       - institution: University of Ljubljana, Faculty of Computer and Information Science
         location: Ljubljana, Slovenia
         area: Computer Science and Mathematics
-        studyType: Bachelor's degree
+        degree: Bachelor's degree
         start_date: 2017
         end_date: 2021
 
       - institution: University of Ljubljana, Faculty of Mathematics and Physics
         location: Ljubljana, Slovenia
         area: Computer Science and Mathematics
-        studyType: Master's degree
+        degree: Master's degree
         start_date: 2021
         end_date: 2024
 
       - institution: Jožef Stefan International Postgraduate School
         location: Ljubljana, Slovenia
         area: Information and Communication Technologies
-        studyType: PhD
+        degree: PhD
         start_date: 2025
         end_date: present
 
@@ -77,10 +61,17 @@ cv:
         summary: Help as a volunteer with various tasks (setup, registration, lecture monitoring, ...).
 
     Skills:
-        type: list
-        contents:
-          - Programming: Python (main), Java (competent), C (basic), C++ (basic), Matlab (basic), JavaScript (basic), SQL (basic), ...
-          - Writing: LATEX, Microsoft Word, HTML
-          - Libraries: PyTorch, Pandas, Matplotlib, SciPy, ...
-          - Presentations: LATEX beamer, Microsoft PowerPoint
-          - Languages: Macedonian, English, Croatian, Slovenian, French
+      - label: Programming
+        details: Python (main), Java (competent), C (basic), C++ (basic), Matlab (basic), JavaScript (basic), SQL (basic), ...
+
+      - label: Writing
+        details: LATEX, Microsoft Word, HTML
+
+      - label: Libraries
+        details: PyTorch, Pandas, Matplotlib, SciPy, ...
+
+      - label: Presentations
+        details: LATEX beamer, Microsoft PowerPoint
+
+      - label: Languages
+        details: Macedonian, English, Croatian, Slovenian, French
