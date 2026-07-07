@@ -38,44 +38,34 @@
   "volunteer": [
     {
       "organization": "Jožef Stefan Institute",
-      "location": "",
       "position": "Organizer",
       "startDate": "2025-10-01",
       "endDate": "present",
-      "summary": "Organization of the ”student seminar” series of presentations at the department of knowledge technologies.",
-      "highlights": []
+      "summary": "Organization of the ”student seminar” series of presentations at the department of knowledge technologies."
     },
     {
       "organization": "IPS Students' Conference 2026",
-      "location": "",
       "position": "Organizer",
       "startDate": "2025-11-06",
       "endDate": "2026-05-29",
-      "summary": "Part of communications team (designing and creating social media posts) for the IPSSC 2026.",
-      "highlights": []
+      "summary": "Part of communications team (designing and creating social media posts) for the IPSSC 2026."
     },
     {
       "organization": "AI for Science 2025",
-      "location": "",
       "position": "Volunteer",
       "startDate": "2025-09-22",
       "endDate": "2025-09-26",
-      "summary": "Helped as a volunteer with various tasks (setup, registration, lecture monitoring, ...).",
-      "highlights": []
+      "summary": "Helped as a volunteer with various tasks (setup, registration, lecture monitoring, ...)."
     }
   ],
   "education": [
     {
       "institution": "University of Ljubljana, Faculty of Computer and Information Science",
       "location": "Ljubljana, Slovenia",
-      "url": "",
       "area": "Computer Science and Mathematics",
       "studyType": "Bachelor's degree",
       "startDate": "2017",
-      "endDate": "2021",
-      "score": "",
-      "courses": [],
-      "highlights": []
+      "endDate": "2021"
     },
     {
       "institution": "University of Ljubljana, Faculty of Mathematics and Physics",
@@ -83,10 +73,7 @@
       "area": "Computer Science and Mathematics",
       "studyType": "Master's degree",
       "startDate": "2021",
-      "endDate": "2024",
-      "score": "",
-      "courses": [],
-      "highlights": []
+      "endDate": "2024"
     },
     {
       "institution": "Jožef Stefan International Postgraduate School",
@@ -94,17 +81,12 @@
       "area": "Information and Communication Technologies",
       "studyType": "PhD",
       "startDate": "2025",
-      "endDate": "present",
-      "score": "",
-      "courses": [],
-      "highlights": []
+      "endDate": "present"
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python (main)",
         "Java (competent)",
@@ -118,8 +100,6 @@
     },
     {
       "name": "Writing",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "LATEX",
         "Microsoft Word",
@@ -128,8 +108,6 @@
     },
     {
       "name": "Libraries",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "PyTorch",
         "Pandas",
@@ -140,8 +118,6 @@
     },
     {
       "name": "Presentations",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "LATEX beamer",
         "Microsoft PowerPoint"
@@ -149,8 +125,6 @@
     },
     {
       "name": "Languages",
-      "level": "",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Macedonian",
         "English",
